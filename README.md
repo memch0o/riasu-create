@@ -1,1 +1,1 @@
-# rias
+<img src="https://github-readme-stats.vercel.app/api?username=riasu-create&theme=radical&title_color=dc143c&icon_color=ff9696&show_icons=true&hide_border=true&include_all_commits=true&custom_title=Koneko%27s%20Github%20Stats"/>
